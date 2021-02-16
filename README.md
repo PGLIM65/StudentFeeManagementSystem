@@ -6,14 +6,7 @@ This program intends to simulate some of the basic aspects of encoding students 
 
 Administrative Accounts can: 
 
-Add New Students with their Information
-Add New Courses with its Information
-Add New Tutors with their information
-View the Detailed List of Students, Courses and Tutors
-Viewing the Cost Fee for the Course and Tutor
-Student Can Choose from Installment or Full Payment
-The Total Fees and Information will be sent to the Student’s Email 
-The Admin who will sent the emails to other students will be labeled as [philippelim65].
+Add New Students with their Information, Add New Courses with its Information, Add New Tutors with their information, View the Detailed List of Students, Courses and Tutors, Viewing the Cost Fee for the Course and Tutor, Student Can Choose from Installment or Full Payment, The Total Fees and Information will be sent to the Student’s Email , The Admin who will sent the emails to other students will be labeled as [philippelim65].
 
 LIMITATIONS:
 
